@@ -1,5 +1,5 @@
 class ChatroomController < ApplicationController
-    def new()
+    def index()
         
     end
 end
